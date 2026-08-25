@@ -5,6 +5,8 @@
 **Ahmed Sharshar\***, **Hosam Elgendy\***, **Yasser Rohaim**, **Saad El Dine Ahmed**, and **Yuxia Wang**  
 \* Equal contribution
 
+**Main Conference Paper at The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)** 
+
 [Paper](https://arxiv.org/abs/2603.17759) · [Dataset](https://drive.google.com/drive/folders/1H2W9Q43G8wtJy5F-KmOc2WhDDegBzJ5Z?usp=sharing) 
 
 > [!CAUTION]

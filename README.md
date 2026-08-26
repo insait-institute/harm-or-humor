@@ -129,15 +129,14 @@ This license does **not** replace or override the licenses and terms governing u
 
 ## Citation
 
-Please cite the paper when using the benchmark. The attached manuscript identifies the title and authors but does not provide final proceedings metadata, so update `VENUE`, `YEAR`, and `PAPER_URL` before publishing the repository.
+Please cite the following version:
 
 ```bibtex
-@inproceedings{sharsharYEARharmorhumor,
-  title     = {Harm or Humor: A Multimodal, Multilingual Benchmark for Overt and Covert Harmful Humor},
-  author    = {Sharshar, Ahmed and Elgendy, Hosam and Rohaim, Yasser and Ahmed, Saad El Dine and Wang, Yuxia},
-  booktitle = {emnlp},
-  year      = {2026},
-  url       = {PAPER_URL}
+@article{sharshar2026harm,
+  title={Harm or Humor: A Multimodal, Multilingual Benchmark for Overt and Covert Harmful Humor},
+  author={Sharshar, Ahmed and Elgendy, Hosam and Ahmed, Saad El Dine and Rohaim, Yasser and Wang, Yuxia},
+  journal={arXiv preprint arXiv:2603.17759},
+  year={2026}
 }
 ```
 

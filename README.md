@@ -102,7 +102,7 @@ Availability therefore differs by item:
 
 - Permissively licensed media may be redistributed with its original attribution and license information.
 - Some media may be represented only through metadata or source identifiers.
-- Media derived from **D-HUMOR** is not redistributed in this repository. Researchers must obtain those files through the D-HUMOR authors' official access process; this repository provides only the corresponding derived annotations and metadata.
+- Media derived from [**D-HUMOR**](https://github.com/Sai-Kartheek-Reddy/D-Humor-Dark-Humor-Understanding-via-Multimodal-Open-ended-Reasoning) is not redistributed in this repository. Researchers must obtain those files through the D-HUMOR authors' official access process; this repository provides only the corresponding derived annotations and metadata.
 
 Always consult the per-item provenance and license metadata before copying, redistributing, or publishing benchmark content.
 
